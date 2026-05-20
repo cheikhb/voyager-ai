@@ -1,0 +1,22 @@
+# Clés API - NE JAMAIS publier
+.env
+
+# Environnement virtuel
+env/
+venv/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Streamlit
+.streamlit/secrets.toml
+# IDE
+.antigravity/
+
+# OS
+.DS_Store
+Thumbs.db
